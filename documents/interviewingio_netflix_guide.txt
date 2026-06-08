@@ -1,0 +1,97 @@
+Netflix's interview process and questions
+
+Netflix's interview process consists of the following steps:
+Recruiter call
+Hiring manager screen
+Technical phone interview
+A very long onsite
+
+Before we get into the details of each of these steps, here are a few general notes about Netflix's process, evaluation criteria, and interviewers.
+
+Every human organization views themselves as a metaphor; Netflix doesn't view themselves as a family like some other tech companies, they view themselves as a high-caliber sports team (in fact, Netflix calls their employees a "dream team"). They explain this metaphor themselves in their infamous culture memo.
+
+Netflix's interview process is decentralized and team-dependent. You can interview with multiple teams at Netflix concurrently, which can help you increase your odds of securing a job offer.
+
+Step 1: Recruiter call
+Standard initial screen to confirm interest and basic qualifications.
+
+Step 2: Hiring manager screen
+This is a 30 minute call. A former Netflix employee called this round "Very chill, especially compared to the onsite." This round consists of bidirectional surface-level questions.
+
+The hiring manager will also be selling you on Netflix. Hiring managers doing selling is business as usual, but in this case, it serves an additional purpose - because their onsite is by far the most intense, they have to sell harder upfront because the onsite is a bigger commitment for the candidates.
+
+Step 3: Technical phone screen
+The Netflix technical phone screen is a coding interview that typically lasts 45-60 minutes. There is significant inter-team variation on what these interviews cover, and the tooling you use during these interviews also varies by team.
+
+Step 4: Onsite
+Onsite interview structure varies from team to team, but you'll have roughly 8 interviews focused primarily on system design, then behavioral, and then coding.
+
+Depending on the length of the onsite, Netflix recruiting may ask you if you'd prefer to split the onsite over two days, and we recommend that you proactively ask to do that, given how taxing the behavioral and system design portions are.
+
+Netflix is the only FAANG that routinely includes 1-2 directors in their onsite loops. If your loop has two, it'll be one director from your org and another from a partner org. Netflix does this to reduce bias. One director may do a system design interview, and the other will do a behavioral interview.
+
+Tip: "Don't be thrown off by having to talk to directors. Just stick to the principles: when you speak about technical stuff you've worked on, focus on scale, availability, and security. When you speak about behavioral stuff: use shared ideas from their culture deck, take accountability for your wins and failures, and demonstrate metrics and impact."
+
+Anecdote from a Netflix Interviewer: "The HRBP [which is basically a very senior recruiting function] and the director would typically focus on behavioral rounds. I have also seen directors spending time (30 mins) just letting candidates ask and clarify any questions that they might have regarding the team, Netflix culture, career growth path or any other aspects. So, a strong recommendation would be to be ready with your genuine questions list and get things clarified in such interviews. Candid conversation is one of the key values at Netflix and asking genuine concerns if any is seen through good lenses, as that establishes candidates' seriousness about the role to some extent."
+
+Netflix's interview types in detail
+
+Coding
+The technical questions Netflix asks vary from team to team. Some teams don't ask LeetCode questions. Other teams will ask medium-difficulty LeetCode-style coding questions with a creative/practical twist.
+
+These rounds are going to change team by team, but the pattern we've noticed is that Netflix coding questions often come in two parts.
+
+Typically there is one question and, in scenarios where edge cases and tests are done early, say within 45 minutes, the interviewer may choose to spend some time discussing general large scale engineering concepts and distributed systems (like microservices, scalability, etc.). For instance, some expansions could be:
+
+A system design expansion on top of the coding question, such as a practical application where they ask you to apply the solution you just found to a part of their real-life system.
+
+A deep dive into a specific skill set (e.g., if this team codes in Java: they'll have a round all about multithreading for Java specifically).
+
+System design
+This is the most important round at Netflix. Coding carries the least weight, behavioral carries a lot, and system design has the most.
+
+Netflix system design rounds are highly unique and highly challenging. Netflix is to system design as Google is to coding; these technical interview rounds include the most difficult and bespoke questions.
+
+Similar to how Amazon loves Leadership Principles, Netflix loves system design so much they even throw it into coding rounds sometimes - first, you solve a LeetCode-style problem. Then they ask you to apply it to a real-world use case.
+
+Netflix system design rounds are easier to prepare for if you know the patterns: Netflix loves scale. Netflix never wants to go down, and Netflix hates when things aren't secure. Availability is super important to them; they want to ask and hear about tactics to scale systems, keep systems highly available, and maintain secure systems.
+
+At Netflix, you're likely to see unique questions that you won't get anywhere else, and the system design round is the part of the process that Netflix interviewers take the most pride in, so they make up hard, one-of-a-kind questions from scratch. Thematically, their questions are more likely to be focused on scaling. They also like to ask about security and availability.
+
+Netflix is more likely than the rest of FAANG to give you a system design round focused solely on security. For instance, you might get asked what you would do during a DDoS attack, and the entirety of the session will be spent drilling down into the details. And because they're also obsessed with availability, you might get questions around backups and what to do if a service goes down.
+
+As with their coding rounds, Netflix prefers questions with a practical application, and they're likely to ask you about something they're working on right now. If you research their architecture - specifically the service that particular team is in charge of - and the other services this service interacts with, you'll be in good shape.
+
+You're also likely to see a "reverse system design" round, where your interviewer will ask you pointed questions about the systems you've worked on before, e.g., the largest scale system you've worked on, how did you manage it, how did you scale it, etc.
+
+Questions they most likely won't ask are product-focused questions, such as "Design Spotify".
+
+Tip: Learn about Netflix's overall architecture so you can a) speak their language, and b) build or speak of something similar (in the interview) that Netflix has already built but simpler. For the team you interview with: what's their tech stack? What open source stuff do they do? With which other services might their service interact? That last question is most critical. If you can put forethought into how their current system works, you'll have a huge leg up.
+
+Behavioral
+Answers to behavioral questions are almost as important as system design at Netflix. You'll get rejected if you fail the behavioral screen.
+
+These interviews have a heavy emphasis on the candidate being a cultural fit, being able to work in a team, having curiosity, and being product minded, highly motivated individuals capable of driving products forward.
+
+A unique part of Netflix's behavioral interview is the "Dream Team" interview. This is a slightly more intense behavioral round conducted by a director. The "volume" is turned up on all of the things you might see in a typical behavioral round at Netflix (scale, accountability, open communication about concerns, high risk and high reward.)
+
+Anecdote from a Netflix Interviewer: "Netflix doesn't hire as much as other FAANGs, so they want to make sure you're a star. That's what the 'Dream Team' interview is about."
+
+One key thing you need to do before your Netflix behavioral interview is read their culture memo. If you don't do this, you will fail the behavioral round.
+
+Anecdote from a Netflix Engineer: "The culture illustrated in the culture memo is sort of accurate to how the culture at Netflix actually is, but the actual culture is less intense. Team members tend to get along really well. You don't compete with others in your performance review like it is at companies like Facebook. We're not ranked against peers, so people are more willing to help each other out."
+
+Netflix will ask about impressive things you've done, as well as dig into your motivation (your "why"). This round will feel like you're doing self-promotion. Typical questions will ask about your favorite project, latest project, and most significant project, as well as open-ended questions about what you're looking for in your next role and why you're interested in Netflix.
+
+Tip: Promote yourself early and often in Netflix behavioral rounds. Promote yourself proactively. Metrics and impact statements are effective ways to promote yourself because they convey a sense of scale and complexity.
+
+It can be nerve-wracking to talk to a director for 45-60 minutes. It's more nerve-wracking when, out the gate, they ask you to describe the biggest thing you've ever worked on. When talking to a director, it's more important to have metrics and impact statements.
+
+How Netflix makes hiring decisions
+Netflix interviewers are untrained, their questions are unstandardized, their interviews are team-dependent, and their decision-making north star is "Why". You can interview with multiple teams concurrently, effectively giving you multiple shots on goal.
+
+There's also no specific company-wide scale for performance at Netflix. This is different from, say, Google, where all candidates are graded on the same "Strong Hire, Hire, Neutral, No Hire, Strong No-Hire" scale. Different teams have different processes, but most decisions are made based on live post-onsite discussions.
+
+Anecdote from a Netflix Interviewer: "Netflix hiring decisions are black and white: pass or fail. And then you discuss if you'd be open to changing your mind. The only difference between Apple and Netflix was how they defined cultural fit. Besides that the hiring decisions were made in the same way: informal, mainly based on live discussions, binary decisions, and striving for consensus."
+
+Tip: Impression management is more powerful at companies that do live feedback discussions. To improve, conduct mock interviews focused on how you present yourself and how you leave an impression, not just whether you answered the question.

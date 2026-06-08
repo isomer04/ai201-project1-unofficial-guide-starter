@@ -1,0 +1,38 @@
+Apple Interview Experiences (Blind)
+
+Apple Recruiter Call after Final Interview
+Recruiter emailed 24 hours after final interview to schedule a 10-minute call. 10 minutes is not a lot of time - hard to tell if this is good or bad. US employment applications arrived 3 hours after final interview, then in email she asked about AI. The wait is very stressful.
+
+Rejected at Apple phone screen
+I had an Apple phone screen with a Director (Head of Technical Leadership) for a Full Stack Engineer role. He asked me three questions:
+1. What was your most challenging project?
+2. What AI tools are you using at work?
+3. What is your current role at your company?
+
+I answered everything clearly but still got rejected.
+
+Apple onsite rejection - what could have gone wrong?
+Interviewed with Apple Ads for ICT4. Process was: first round coding interview, second round coding and system design, and then an in-person onsite with coding, system design, and HM round.
+
+I genuinely felt like I nailed the onsite. Coding and system design felt straightforward, interviewers seemed engaged. Got rejected.
+
+Apple interviews - are they really hiring?
+Got reached out by a persistent recruiter at Apple for a role. Recruiter kept pushing and saying the team wanted to meet the next day. Apple's interview interest does not always signal active headcount.
+
+Apple recruiter call after final loop
+Recruiter sent an email 2 days after final loop with Apple's hardware team saying she had an update to share and wanted to schedule a phone call.
+
+Failed OpenAI interview, landed Airbnb and Apple offers
+Apple offer came in close to 750k TC and matched Airbnb's offer. Apple matched competitor offers during negotiation.
+
+Apple HM phone screen - response timeline
+Candidates report either being notified quickly (same day) or being ghosted completely. Decision after screen can be very quick - within a few hours. No response after 2-3 business days often signals no hire.
+
+Finished two phone interviews at Apple, hiring manager sent LinkedIn connection request after a couple of hours
+Had two phone screening interviews at Apple and the hiring manager (who did not interview me) sent a LinkedIn connection request shortly after. No recruiter update for several days.
+
+Apple Onsite Rejection
+Recently failed Apple onsite without much preparation. Recruiter said the HM asked to share CV with other teams - this can indicate a positive impression even without an offer from the original team.
+
+Apple interview results timeline
+Decision after screen was very quick - within a few hours. Longer waits after full panel - no response after 2-3 business days may mean no hire, but timelines vary.

@@ -1,0 +1,24 @@
+Meta E4 Onsite Interview Experience (Blind)
+
+Candidate writeup - Meta E4 onsite:
+I had my onsite today and feel like I bombed the last round.
+
+Round 1: Coding - answered both questions optimally and answered follow-ups which were tricky.
+Round 2: Behavioral - had a good rapport with the interviewer and felt like it went well.
+Round 3: Product architecture - got through all the requirements, designed the system with diagrams, went deep into API design, answered follow-ups.
+Round 4: Coding - for the first problem I got the answer pretty quickly but was struggling to code it up since it had a lot of code and if conditions. Once I started struggling I got nervous and it took a while to come back and answer it correctly. The interviewer said I had a memory leak but I was pretty sure I didn't and he admitted eventually I was right. By then too much time had passed so I did the other question verbally - answered it optimally but no time to code.
+
+Response from engineer currently at Meta:
+Behavioral and system design are very subjective. A lot of candidates think they did well when they either did mediocre or not that well.
+
+Aside from that, bombing one of the coding rounds will make it basically next to 0% shot at making past hiring committee. I would recommend applying again in 12 months.
+
+Based on your own assessment of your experience, you have between a 0-5% chance of passing HC.
+
+Response on LeetCode prep for Meta:
+My questions were Facebook-tagged from LeetCode, all medium level difficulty.
+
+I would give more preference to the FB-tagged LeetCode questions, since all of mine were from there. Make sure to look at the follow-ups too - they generally ask for them.
+
+Response on interview difficulty:
+If you didn't get to code a question at all, then it is highly likely a reject, especially in the current market.

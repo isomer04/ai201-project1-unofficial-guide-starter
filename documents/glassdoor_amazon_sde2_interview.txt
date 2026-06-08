@@ -1,0 +1,18 @@
+Amazon Software Development Engineer II Interview Experiences (Glassdoor)
+
+Candidate 1 - Declined offer, Positive experience, Average interview
+Interviewed at Amazon, Seattle, WA, May 2026.
+
+Two rounds total. First round with an SDE II: Data Structures and Algorithms, LeetCode-style questions. Second round with an SDM: Behavioral and System Design - Leadership Principles and past work experience impact.
+
+Candidate 2 - No offer, Negative experience, Easy interview
+Interviewed at Amazon, Feb 2026.
+
+Recruiter explicitly mentioned that the Technical Phone Screen would not contain any behavioral questions, but the interviewer asked 3 behavioral questions. The coding problem was a pretty trivial DFS problem, not appropriate for an SDE 2 role or useful to demonstrate candidate skills.
+
+Note from candidate: They care a lot more about what you've accomplished than whatever you can accomplish based on your skills.
+
+Questions asked:
+1. Tell me about a time when you had to meet a tight deadline.
+2. Tell me about a time when you had to do more than what you were required to do.
+3. Tell me about a time where you made a significant impact on a customer.

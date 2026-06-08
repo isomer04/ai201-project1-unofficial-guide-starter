@@ -1,0 +1,28 @@
+Anyone Interview at Netflix Recently? (Reddit - r/leetcode)
+
+Original post:
+I might have an interview coming for Netflix (phone screen), but I genuinely cannot find anything online about it. My only data point is that someone I know interviewed for a data team one year ago and got a difficult concurrent cache implementation question. I was pretty shocked to hear this for a phone screen and I'm really nervous now. I really like the team and the HM was a cool dude so I want to do well. Any advice would be appreciated.
+
+Reply from recent Netflix interviewee:
+Just had an interview with them last week. It was a cache question: cache with TTL, then LRU cache, then do it concurrently. You don't need to code the last bit - you can just explain it. The first two parts you have to code. Questions are meant to be open-ended.
+
+Reply from candidate who passed:
+Obviously this is for the phone screen. On-site is a different story. I passed the interview but leveling was not to my liking - lots of companies are taking advantage of the large talent pool to downlevel candidates right now.
+
+Reply on team variation:
+Seems to be very dependent on the team you're interviewing with. Netflix's interview process varies significantly by team.
+
+Detailed prep advice from community member:
+Netflix is known for having more unique technical questions compared to other FAANG companies, so that concurrent cache implementation question doesn't totally surprise me even for a phone screen.
+
+From what I've seen, Netflix tends to focus less on standard LeetCode patterns and more on practical system-level problems that relate to their actual work. So you might see questions around distributed systems, caching strategies, data processing pipelines, or performance optimization - stuff that's directly applicable to their streaming infrastructure.
+
+For prep, I'd suggest brushing up on:
+- Concurrency concepts (locks, thread safety, etc.)
+- System design fundamentals
+- Data structures that are actually used in production systems
+- Netflix's tech stack if you can find info on what the specific team uses
+
+The good news is that since they ask more practical questions, you can often talk through your thought process and real-world trade-offs rather than just memorizing algorithm patterns. They seem to value engineering judgment and how you approach complex problems.
+
+Netflix interviews are tough but the fact that you made it to the phone screen means they're interested. Just focus on demonstrating strong problem-solving skills and don't panic if the question seems unconventional.
