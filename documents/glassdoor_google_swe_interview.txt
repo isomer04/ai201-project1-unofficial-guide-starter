@@ -1,0 +1,13 @@
+Google Software Engineer Interview Experiences (Glassdoor)
+
+Candidate 1 - No offer, Positive experience, Average interview
+Interviewed at Google, Warsaw.
+
+Remote round: on the same day, 45-minute technical interview then 45-minute behavioral interview. Plenty of time to ask questions afterward - be prepared with at least three questions to show interest.
+
+Question: Given a list of ranges like [0,1], [2,5], ... create a class with methods to find if an element is in any range and to insert a new range.
+
+Candidate 2 - No offer, Positive experience, Difficult interview
+Interviewed at Google, New York, NY.
+
+Did not pass the phone screen. It was a LeetCode medium question. Candidate felt they got it right but may have been too slow in finishing the problem.

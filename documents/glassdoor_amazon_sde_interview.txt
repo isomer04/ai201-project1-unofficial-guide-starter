@@ -1,0 +1,15 @@
+Amazon Software Development Engineer Interview Experiences (Glassdoor)
+
+Candidate 1 - No offer, Neutral experience, Difficult interview
+Interviewed at Amazon, Apr 2025. Process took 5 months.
+
+Technical assessment into a work life simulation, then final loop interview (3 consecutive interviews, 2 technical then 1 behavioral). Scheduling issues delayed the final loop for over four months.
+
+Question: Design an employee animal daycare system.
+
+Candidate 2 - No offer, Positive experience, Difficult interview
+Interviewed at Amazon.
+
+Started with an OA, then after a few weeks, invited to four rounds of interviews: technical and behavioral at 3 of the 4, and behavioral only at one.
+
+Question: Questions related to leadership principles.

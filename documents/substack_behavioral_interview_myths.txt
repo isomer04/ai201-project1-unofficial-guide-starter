@@ -1,0 +1,31 @@
+Why You Fail at Behavioral Interviews (The Behavioral, Substack)
+
+Myth 1: No Prep Required, Just Be Yourself
+Behavioral interviews demand preparation despite their personal nature. While authenticity matters, candidates must understand what interviewers seek and craft stories that effectively communicate relevant competencies. Even impressive work can fail without proper articulation. Preparation helps candidates identify which stories demonstrate the evidence interviewers value, frame those narratives to highlight impact, and deliver them under pressure. This skill set benefits not just interviews but also promotion discussions and leadership conversations about accomplishments.
+
+Myth 2: Prep Specific Questions in Advance
+Behavioral questions vary widely, making memorized answers to anticipated questions ineffective. Rather than mapping specific stories to specific questions, candidates should understand underlying signal areas - like ownership, scope, and communication - and know how to tell 4-5 strong stories adaptable to different questions. One well-chosen narrative about a complex project can demonstrate evidence across multiple competencies including ownership, technical depth, collaboration, and handling ambiguity.
+
+Myth 3: The STAR Method Is All You Need
+STAR provides basic structure but represents only table stakes. The framework tells candidates how to organize responses but not which stories to select, how to position themselves for top-tier companies, what scope signals seniority level, or how to adjust approaches for different interviewer types. "STAR is table stakes - it's the minimum structure you need," but thinking it's sufficient underestimates interview complexity.
+
+Myth 4: Behavioral Interviews Are Subjective and Arbitrary
+This misconception discourages preparation most destructively. While behavioral interviews feel subjective compared to coding challenges, companies invest heavily in objectivity. They train interviewers to seek specific evidence, use structured rubrics defining "strong" at each level, and calibrate across evaluators. Interviewers ask "What evidence demonstrates this candidate can perform at the level we're hiring for?" rather than "Do I like this person?" Eight well-defined signals guide evaluation, even if companies frame them uniquely.
+
+Myth 5: You Can Wing It If You're a Good Storyteller
+Natural charisma and engaging narratives don't automatically transfer to interview success. College roommates don't assess whether stories demonstrate appropriate scope for senior roles - interviewers do. A fascinating technical story about solo work won't demonstrate collaboration skills. An engaging organizational politics narrative consuming eight minutes prevents telling three other required stories. Communication skills help, but they don't substitute for understanding which evidence to deliver and how to structure responses for evaluation contexts.
+
+Myth 6: Recent Grads and Junior Engineers Don't Need to Prep
+Early-career candidates face fierce competition, particularly in tough markets. While scope and complexity bars are lower for junior roles, behavioral interviews often carry more weight than expected because companies assess growth trajectory alongside current skills. Junior candidates must demonstrate ownership, learning from mistakes, and collaboration capability. Interview stories may involve smaller experiences - class projects, internships, hackathons - but required evidence signals remain identical, demanding intentional story selection.
+
+Myth 7: The Manager Is Just Looking for Social Fit
+While chemistry matters, hiring managers primarily predict job performance through behavioral evaluation. Social compatibility represents the easier threshold; most qualified candidates converse pleasantly. Success separates through demonstrated competencies: handling ambiguous problems, influencing without authority, making sound technical decisions under constraints, and navigating complexity. Interviewers ask "Can I trust this person to deliver results?" not "Would I enjoy lunch with them?"
+
+What to Do Instead
+The Decode-Select-Deliver framework provides effective preparation:
+
+Decode: Understand what specific evidence each behavioral question seeks. Recognizing interviewer intent fundamentally changes preparation approach.
+
+Select: Choose 4-5 well-developed stories demonstrating clear growth and impact through deliberate decisions about which experiences to share and how to frame them.
+
+Deliver: Craft compelling narratives that establish context efficiently, explain actions clearly, quantify meaningful results, and demonstrate genuine learning.
